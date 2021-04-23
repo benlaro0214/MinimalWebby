@@ -1,6 +1,6 @@
 
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 50px;
   width: 50px;
   text-align: center;
@@ -21,7 +21,7 @@
   color: white;  
 }
 
-.fa-youtube {
+.fa-youtube-square {
     background: none;
     color: white;
 
@@ -49,5 +49,10 @@
 
 .fa-facebook-messenger {
   background: none;
+    color: white;
+}
+
+.fa-tiktok {
+  background:none;
     color: white;
 }
