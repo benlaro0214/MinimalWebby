@@ -6,8 +6,14 @@ This, is a minimalistic site template, for those who just want a simple, no fril
 ## Dependencies
 
 * Bootstrap 5
-* Font awesome
+* Font-awesome
 * CSS              
+
+## content
+- index.html file. It has a Bootstrap navbar with a fixed footer, with three Anchor links.
+- style.css file. Serves to style the index.html file.
+- SM_2021.css file. This is a seperate CSS that is for the icons used by font-awesome. It's for very specific icons, mainly for all the most popular social media platforms.
+- background.png Just a quickly generated background picture, 640x400. Took 1 minute to make in GIMP.
 
 
 
